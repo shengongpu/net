@@ -1,0 +1,205 @@
+<div class="nt-main">
+            	<div class="nt-crumb">当前位置：论文管理</div>
+                <div class="nt-taba"><i></i>课题级别</div>
+                <div class="nt-taskchoose clearfix">
+                    <div class="nt-taskbar">课题级别</div>
+                    <div class="select_box select_box3">
+                        <div class="link">请选择课题级别</div>
+                        <ul class="submenu" style="">
+                            <li>全部</li>
+                            <li>级别</li>
+                        </ul>
+                    </div>
+                    <div class="nt-taskbar">举办单位</div>
+                    <div class="select_box select_box3">
+                        <div class="link">请选择举办单位</div>
+                        <ul class="submenu" style="display: none;">
+                            <li>全部</li>
+                            <li>级别</li>
+                        </ul>
+                    </div>
+                    <div class="nt-taskbar">培训时间：</div>
+                    <div class="select_box select_box2">
+                        <div class="link-calendar">2016-02-02</div>
+                        <ul class="submenu" style="display: none;">
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="nt-taskbar"><span class="gray">至</span></div>
+                    <div class="select_box select_box2">
+                        <div class="link-calendar">请选择日期</div>
+                        <ul class="submenu" style="display: none;">
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="nt-taskbar">课题名称</div>
+                    <div class="screening-search">
+                       <input name="" type="text" class="task-textchoose" placeholder="请输入课题名称"/>
+                    </div>
+                    <div class="nt-tabbtn">
+                        <button class="btn-deepblue">查询</button>
+                    </div>
+                </div>
+                <div class="table-formbar"><button class="btn-blue"><i class="icon-add"></i>增加</button><button class="btn-red"><i class="icon-del"></i>删除</button><button class="btn-blue2"><i class="icon-import"></i>导入</button><button class="btn-blue2"><i class="icon-export"></i>导出</button><button class="btn-blue2"><i class="icon-download"></i>下载模板</button></div>
+                <div class="table-formbox">
+                    <table border="0" cellspacing="0" cellpadding="0" class="table-form">
+                      <tr>
+                          <th width="3%"><input name="" type="checkbox" value="" class="ckb_box" /></th>
+                          <th width="4%">序号</th>
+                          <th width="9%">课题名称</th>
+                          <th width="7%">举办单位</th>
+                          <th width="7%">课题级别</th>
+                          <th width="9%">课题时间</th>
+                          <th width="12%">报名要求</th>
+                          <th width="12%">活动详情</th>
+                          <th width="12%">附件</th>
+                          <th width="10%">成功报名人数/报名人数</th>
+                          <th width="15%">操作</th>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box"  checked/></td>
+                          <td>1</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td>--</td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>2</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td>--</td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>3</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>4</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>5</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>6</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>7</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>8</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>9</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                      <tr>
+                          <td><input name="" type="checkbox" value="" class="ckb_box" /></td>
+                          <td>10</td>
+                          <td><p class="cutting" title="小学语文阅读技能提高">小学语文阅读技能提高</p></td>
+                          <td>市教育局</td>
+                          <td>市级</td>
+                          <td>2017-08-23</td>
+                          <td><p class="cutting" title="报名者为一线骨干教师； 教龄在10年以上">报名者为一线骨干教师； 教龄在10年以上</p></td>
+                          <td><p class="cutting" title="该活动旨在提高老师教学水平">该活动旨在提高老师教学水平</p></td>
+                          <td><a class="blue" href="#">报名通知.doc</a></td>
+                          <td>5/100</td>
+                          <td><a class="blue" href="#">上传附件</a><a class="blue" href="#">修改</a><a class="blue" href="#">查看</a></td>
+                      </tr>
+                  </table>
+              </div>
+              <div class="manage-page mt15 clearfix">
+                <span class="fl mt-2">共50条记录 </span>
+                <ul class="fr ml10 clearfix">
+                    <li><span>首页</span></li>
+                    <li class="dis"><span>上一页</span></li>
+                    <li class="active"><span>1</span></li>
+                    <li><span>2</span></li>
+                    <li><span>3</span></li>
+                    <li class="ell"><span>...</span></li>
+                    <li><span>10</span></li>
+                    <li><span>下一页</span></li>
+                    <li><span>末页</span></li>
+                </ul>
+              </div>
+            </div>

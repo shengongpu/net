@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="660" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="416" key="DIALOG_HEIGHT"/>
+		<item value="353" key="DIALOG_X_ORIGIN"/>
+		<item value="87" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\Java教学资料_吕中\day27\day27_code\讲师代码\day27"/>
+			<item value="E:\项目\taotao\01_教案和资料\01.参考资料\4-FastDFS\fastdfsClient"/>
+			<item value="E:\项目\taotao\01_教案和资料\01.参考资料\8-mybatis\pagehelper-fix\pagehelper"/>
+			<item value="E:\项目\taotao\01_教案和资料\01.参考资料\8-mybatis\逆向工程\generatorSqlmapCustom"/>
+			<item value="D:\springmvc+spring+mybatis\ssm\day01\资料\逆向工程\generatorSqlmapCustom"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

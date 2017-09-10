@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-manager-interface/src\/main\/java&lt;com.taotao.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1502606501171"/>
+<typeInfo handle="=taotao-content-interface/src\/main\/java&lt;com.taotao.content.service{ContentCategoryService.java[ContentCategoryService" modifiers="513" timestamp="1502872508890"/>
+<typeInfo handle="=taotao-content-interface/src\/main\/java&lt;com.taotao.content.service{ContentService.java[ContentService" modifiers="513" timestamp="1502880806481"/>
+<typeInfo handle="=taotao-search-interface/src\/main\/java&lt;com.taotao.search.service{SearchItemService.java[SearchItemService" modifiers="513" timestamp="1503232877522"/>
+<typeInfo handle="=day27/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;com.sun.xml.internal.bind.v2.runtime.unmarshaller(Intercepter.class[Intercepter" modifiers="1537" timestamp="1492531188708"/>
+<typeInfo handle="=day27/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(ThreadLocal.class[ThreadLocal" modifiers="33" timestamp="1492531188708"/>
+<typeInfo handle="=taotao-manager-web/src\/test\/java&lt;com.taotao.fastdfs{FastDFS_Test.java[FastDFS_Test" modifiers="1" timestamp="1502716323088"/>
+<typeInfo handle="=taotao-content-service/F:\/develop\/taotao_repository\/org\/springframework\/spring-beans\/4.2.4.RELEASE\/spring-beans-4.2.4.RELEASE.jar&lt;org.springframework.beans.factory(BeanFactory.class[BeanFactory" modifiers="1537" timestamp="1463390305000"/>
+<typeInfo handle="=taotao-content-service/F:\/develop\/taotao_repository\/org\/springframework\/spring-tx\/4.2.4.RELEASE\/spring-tx-4.2.4.RELEASE.jar&lt;org.springframework.transaction(PlatformTransactionManager.class[PlatformTransactionManager" modifiers="1537" timestamp="1463390567000"/>
+</typeInfoHistroy>

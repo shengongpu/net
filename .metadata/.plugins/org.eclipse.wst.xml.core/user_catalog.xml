@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://code.alibabatech.com/schema/dubbo" uri="file:///E:/项目/taotao/01_教案和资料/01.参考资料/3-dubbo/dubbo.xsd"/>
+  <uri name="http://mybatis.org/dtd/mybatis-3-mapper.dtd" uri="file:///E:/项目/taotao/01_教案和资料/01.参考资料/8-mybatis/mybatis3-dtd/mybatis-3-mapper.dtd"/>
+</catalog>

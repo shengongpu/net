@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="204" key="HistoryTableProvider.SVNHistoryPage.作者"/>
+	<item value="508" key="HistoryTableProvider.SVNHistoryPage.注释"/>
+	<item value="0" key="UpdateDialogWithConflictHandling.location.y"/>
+	<item value="914" key="TreeConflictsView.col.Description"/>
+	<item value="F:/workspace-sts-3.6.3.SR1/taotao/taotao-parent" key="TreeConflictsView.resource"/>
+	<item value="254" key="HistoryTableProvider.SVNHistoryPage.日期"/>
+	<item value="20" key="SetSvnPropertyDialog.location.y"/>
+	<item value="333" key="SetSvnPropertyDialog.location.x"/>
+	<item value="shengongpu" key="DirectorySelectionPage.lastParent_https://robin-pc/svn/javaee14-work-student/trunk/01_team"/>
+	<item value="0" key="CommitDialog.location.y"/>
+	<item value="90" key="CommitDialog.location.x"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="728" key="UpdateDialogWithConflictHandling.size.y"/>
+	<item value="700" key="SetSvnPropertyDialog.size.x"/>
+	<item value="153" key="TreeConflictsView.col.Resource"/>
+	<item value="517" key="SetSvnPropertyDialog.size.y"/>
+	<item value="597" key="CommitDialog.size.y"/>
+	<item value="700" key="UpdateDialogWithConflictHandling.size.x"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://robin-pc/svn/javaee14-work-student/trunk/01_team/shengongpu"/>
+	<item value="1186" key="CommitDialog.size.x"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://robin-pc/svn/javaee14-work-student"/>
+	<item value="333" key="UpdateDialogWithConflictHandling.location.x"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="true" key="TreeConflictsView.container"/>
+	<item value="386" key="ChooseUrlDialog.size.y"/>
+	<item value="https://robin-pc/svn/javaee14-work-student/trunk/01_team" key="RepositorySelectionPage.lastRepository"/>
+	<item value="102" key="HistoryTableProvider.SVNHistoryPage.修订"/>
+	<item value="435" key="ChooseUrlDialog.location.x"/>
+	<item value="48" key="ChooseUrlDialog.location.y"/>
+	<section name="CommitWizard">
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="false" key="ShowCompare"/>
+	</section>
+	<section name="IgnoreResourcesDialog">
+		<item value="0" key="Action"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://robin-pc/svn/javaee14-work-student/trunk/01_team/shengongpu"/>
+		</list>
+	</section>
+</section>
